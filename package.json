@@ -1,0 +1,16 @@
+{
+    "name": "cookie-visit-tracker",
+    "version": "1.0.0",
+    "description": "A simple Express app that tracks visits and last visit time using cookies.",
+    "main": "numOfVisits.js",
+    "scripts": {
+      "start": "node numOfVisits.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.17.1",
+      "cookie-parser": "^1.4.5"
+    }
+  }
+  
